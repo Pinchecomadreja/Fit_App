@@ -17,6 +17,6 @@ st.write("Nuestra app de ensueño para deportistas")
 apellido=st.text_input("Apellido")
 password=st.text_input("PASSWORD", type="password")
 
-st.button("Log In",on_click=hacer_login())
-st.button("Registrarse", on_click=hacer_registro())
+st.button("Log In",on_click=hacer_login)
+st.button("Registrarse", on_click=hacer_registro)
 
