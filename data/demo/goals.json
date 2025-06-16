@@ -1,0 +1,26 @@
+{
+  "current_goals": [
+    {
+      "goal": "Entrenar 4 veces por semana",
+      "progress": 75,
+      "target_date": "2024-07-01"
+    },
+    {
+      "goal": "Quemar 1000 calor\u00edas semanales",
+      "progress": 60,
+      "target_date": "2024-06-30"
+    },
+    {
+      "goal": "Mejorar resistencia",
+      "progress": 40,
+      "target_date": "2024-08-01"
+    }
+  ],
+  "achievements": [
+    "\ud83c\udfc6 Primera semana completa",
+    "\ud83d\udcaa 10 d\u00edas consecutivos",
+    "\ud83d\udd25 1000 calor\u00edas quemadas",
+    "\ud83d\udcc8 R\u00e9cord personal",
+    "\u2b50 Mes de constancia"
+  ]
+}

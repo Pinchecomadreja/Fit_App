@@ -1,0 +1,22 @@
+{
+  "personal_records": {
+    "Deadlifts": {
+      "max_weight": 120,
+      "date": "2024-05-25"
+    },
+    "Pull-ups": {
+      "max_reps": 15,
+      "date": "2024-05-18"
+    },
+    "Bench Press": {
+      "max_weight": 80,
+      "date": "2024-05-22"
+    },
+    "Squats": {
+      "max_weight": 100,
+      "date": "2024-05-20"
+    },
+    "longest_workout": 75,
+    "most_calories": 450
+  }
+}

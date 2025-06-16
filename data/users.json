@@ -1,0 +1,45 @@
+{
+  "demo": {
+    "password": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
+    "created_at": "2024-01-01T00:00:00",
+    "profile": {
+      "name": "Usuario Demo",
+      "email": "demo@rochi.com",
+      "age": 28,
+      "height": 175,
+      "weight": 75,
+      "fitness_level": "Intermedio",
+      "goals": [
+        "Perder peso",
+        "Ganar m\u00fasculo"
+      ],
+      "favorite_exercises": [
+        "Push-ups",
+        "Squats",
+        "Running"
+      ]
+    }
+  },
+  "rocio": {
+    "password": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
+    "created_at": "2024-01-01T00:00:00",
+    "profile": {
+      "name": "Roc\u00edo Fitness",
+      "email": "rocio@rochi.com",
+      "age": 25,
+      "height": 165,
+      "weight": 60,
+      "fitness_level": "Avanzado",
+      "goals": [
+        "Fuerza",
+        "Resistencia",
+        "Competir"
+      ],
+      "favorite_exercises": [
+        "Deadlifts",
+        "Pull-ups",
+        "Bench Press"
+      ]
+    }
+  }
+}

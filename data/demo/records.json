@@ -1,0 +1,18 @@
+{
+  "personal_records": {
+    "Push-ups": {
+      "max_reps": 25,
+      "date": "2024-05-15"
+    },
+    "Squats": {
+      "max_reps": 30,
+      "date": "2024-05-20"
+    },
+    "Planks": {
+      "max_duration": 120,
+      "date": "2024-05-10"
+    },
+    "longest_workout": 45,
+    "most_calories": 250
+  }
+}

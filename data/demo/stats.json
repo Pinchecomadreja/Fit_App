@@ -1,0 +1,28 @@
+{
+  "last_4_weeks": [
+    {
+      "week": "Semana 1",
+      "workouts": 4,
+      "duration": 180,
+      "calories": 800
+    },
+    {
+      "week": "Semana 2",
+      "workouts": 5,
+      "duration": 210,
+      "calories": 950
+    },
+    {
+      "week": "Semana 3",
+      "workouts": 3,
+      "duration": 145,
+      "calories": 650
+    },
+    {
+      "week": "Semana 4",
+      "workouts": 6,
+      "duration": 245,
+      "calories": 1100
+    }
+  ]
+}
