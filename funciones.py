@@ -10,7 +10,7 @@ if "registrar" not in st.session_state:
     st.session_state.registrar = False
 
 def login(apellido,password):
-    with open("datos_usuarios.json","r") as archivo:
+    with open("datos_usuarios.json", "r") as archivo:
         try:
             datos=dict(json.load(archivo))
             key=datos.keys()
@@ -29,7 +29,7 @@ def registrar(apellido,password):
     datos [apellido]=password
 
     try:
-        with open("datos_usuarios.json","a") as archivo:
+        with open("datos_usuarios.json", "a") as archivo:
             json.dump(datos,archivo)
             st.success("Registro Exitoso")
     except (FileNotFoundError,json.decoder.JSONDecodeError):
